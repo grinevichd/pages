@@ -1,18 +1,18 @@
-p{
-    color : #575757;
+p {
+    color: #575757;
     font-size: 18px;
     font-family: Calibri sans-serif;
     margin-top: 5px;
 }
 
-.container{
+.container {
     display: flex;
     margin: 0 auto;
     justify-content: space-around;
     max-width: 1400px;
 }
 
-.first-page{
+.first-page {
     padding-right: 20px;
     max-width: 700px;
 }
